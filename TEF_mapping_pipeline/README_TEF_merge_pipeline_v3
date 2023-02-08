@@ -1,0 +1,24 @@
+Prerequisite programs: 
+bowtie2
+cutadapt 
+bbmerge suite
+samtools 
+
+Other requirements:
+'database' directory containing bowtie2 index files
+'BC_file_v2' specifying 5' index sequences 
+'R_BC_file_v2' specifying 3' index sequences
+'file_name_key.csv' CSV file containing demultiplexed file names (column 1) and new prefixes for renaming the files (column 2) eg.:
+
+FDM_Fi2_RDM_Ri3,TEF19_MA1.1
+FDM_Fi2_RDM_Ri4,TEF20_MA1.2
+FDM_Fi2_RDM_Ri5,TEF21_MA2.1
+
+ 
+To change stringency of bowtie2 alignments, change 'val' parameter
+To change database for bowtie2 alignments, change 'db' parameter 
+For example:
+val=0.03 
+db="TEF_v9"
+
+

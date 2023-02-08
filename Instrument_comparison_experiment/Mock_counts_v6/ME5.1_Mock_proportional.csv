@@ -1,0 +1,9 @@
+"Counts","Species","Sample","Proportional_counts"
+860,"Aspergillus_fumigatus","ME5.1_Mock",0.86
+20,"Candida_albicans","ME5.1_Mock",0.02
+20,"Aspergillus_fischeri","ME5.1_Mock",0.02
+20,"Saccharomyces_cerevisiae","ME5.1_Mock",0.02
+20,"Fusarium_oxysporum","ME5.1_Mock",0.02
+20,"Candida_parapsilosis","ME5.1_Mock",0.02
+20,"Candida_auris","ME5.1_Mock",0.02
+20,"Rhizopus_arrhizus","ME5.1_Mock",0.02

@@ -1,0 +1,9 @@
+"Counts","Species","Sample","Proportional_counts"
+860,"Penicillium_rubens","MG5.1_Mock",0.86
+20,"Aspergillus_fumigatus","MG5.1_Mock",0.02
+20,"Aspergillus_fumigatiaffinis","MG5.1_Mock",0.02
+20,"Candida_glabrata","MG5.1_Mock",0.02
+20,"Aspergillus_penicillioides","MG5.1_Mock",0.02
+20,"Fusarium_oxysporum","MG5.1_Mock",0.02
+20,"Candida_auris","MG5.1_Mock",0.02
+20,"Aspergillus_flavus","MG5.1_Mock",0.02

@@ -1,0 +1,8 @@
+Counts,Species,Sample,Proportional_counts
+860,Candida_albicans,MF5.1_Mock,0.86
+20,Cryptococcus_neoformans,MF5.1_Mock,0.02
+20,Pichia_kudriavzevii,MF5.1_Mock,0.02
+20,Candida_auris,MF5.1_Mock,0.02
+20,Rhizopus_arrhizus,MF5.1_Mock,0.02
+40,Aspergillus_fumigatiaffinis,MF5.1_Mock,0.04
+20,Fusarium_oxysporum,MF5.1_Mock,0.02

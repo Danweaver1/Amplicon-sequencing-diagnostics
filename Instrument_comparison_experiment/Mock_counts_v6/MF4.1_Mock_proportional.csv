@@ -1,0 +1,8 @@
+"Counts","Species","Sample","Proportional_counts"
+1720,"Candida_albicans","MF4.1_Mock",0.86
+40,"Cryptococcus_neoformans","MF4.1_Mock",0.02
+40,"Pichia_kudriavzevii","MF4.1_Mock",0.02
+40,"Candida_auris","MF4.1_Mock",0.02
+40,"Rhizopus_arrhizus","MF4.1_Mock",0.02
+80,"Aspergillus_fumigatiaffinis","MF4.1_Mock",0.04
+40,"Fusarium_oxysporum","MF4.1_Mock",0.02

@@ -1,0 +1,6 @@
+"Counts","Species","Sample","Proportional_counts"
+96000,"Cryptococcus_neoformans","MK2.1_Mock",0.96
+1000,"Candida_glabrata","MK2.1_Mock",0.01
+1000,"Saccharomyces_cerevisiae","MK2.1_Mock",0.01
+1000,"Fusarium_oxysporum","MK2.1_Mock",0.01
+1000,"Rhizopus_arrhizus","MK2.1_Mock",0.01

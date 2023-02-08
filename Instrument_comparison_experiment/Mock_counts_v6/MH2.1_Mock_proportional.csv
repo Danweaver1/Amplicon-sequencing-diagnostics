@@ -1,0 +1,9 @@
+"Counts","Species","Sample","Proportional_counts"
+93000,"Cryptococcus_neoformans","MH2.1_Mock",0.93
+1000,"Penicillium_rubens","MH2.1_Mock",0.01
+1000,"Aspergillus_niger","MH2.1_Mock",0.01
+1000,"Candida_rugosa","MH2.1_Mock",0.01
+1000,"Aspergillus_clavatus","MH2.1_Mock",0.01
+1000,"PjTEF","MH2.1_Mock",0.01
+1000,"Candida_parapsilosis","MH2.1_Mock",0.01
+1000,"Aspergillus_terreus","MH2.1_Mock",0.01

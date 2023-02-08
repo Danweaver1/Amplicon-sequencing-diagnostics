@@ -1,0 +1,6 @@
+"Counts","Species","Sample","Proportional_counts"
+46000,"Penicillium_rubens","MC3.1_Mock",0.92
+1000,"Candida_albicans","MC3.1_Mock",0.02
+1000,"Aspergillus_fumigatus","MC3.1_Mock",0.02
+1000,"Cryptococcus_neoformans","MC3.1_Mock",0.02
+1000,"Aspergillus_terreus","MC3.1_Mock",0.02
